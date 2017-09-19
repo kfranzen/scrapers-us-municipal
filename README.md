@@ -1,3 +1,5 @@
+# THIS REPO IS DEPRECATED. The most recent code has been moved to https://github.com/openoakland/councilmatic-scraper. If you have a local copy please change the origin remote to the new repo in the OpenOakland space.
+
 municipal-scrapers
 ==================
 
